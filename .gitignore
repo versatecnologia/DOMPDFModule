@@ -7,3 +7,5 @@ config/autoload/*.local.php
 
 # Build directories
 build/*
+
+.idea
